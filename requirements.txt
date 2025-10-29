@@ -1,6 +1,7 @@
 flask
 flask-cors
-torch
+torch==2.2.2+cpu
 transformers
 accelerate
 sentencepiece
+-f https://download.pytorch.org/whl/torch_stable.html
