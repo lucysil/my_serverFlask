@@ -1,6 +1,7 @@
 flask
 flask-cors
-torch==2.2.2+cpu
+torch==2.5.1
+
 transformers
 accelerate
 sentencepiece
